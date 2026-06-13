@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Booking App",
+  "description": "A lightweight and elegant client-side hotel search, room detailed viewing, and booking reservation manager with localized persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
